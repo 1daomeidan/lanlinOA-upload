@@ -1,0 +1,4 @@
+http://cyy.landray.com.cn:8088/login.jsp
+http://58.250.250.125:8084/login.jsp
+http://219.134.186.46:8088/login.jsp
+http://219.134.186.46:8088/login.jsp
